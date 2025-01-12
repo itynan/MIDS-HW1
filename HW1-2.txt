@@ -1,0 +1,8 @@
+360a64393de18b759eaa792d8e3ba9962d5cede7 final commit before autograder
+7582d9c6f031ed463164c1bca18e09c3bda16207 working in wsl+vs code
+05cfbe1d1376534b647dcddb0db9512436c4bb68 answer Q1-1
+a81f2b23233748f28402c0a5a695679a7e11d1ca Revert "resolve unrelated hist"
+236fcc64c15eeb0c242d134f7246e9f880869078 resolve unrelated hist
+1504eda32ef82bbf082770d8ae5ba43125c04cad Merge branch 'main' of https://github.com/itynan/MIDS-HW1
+28e54a7f66ffb84b836b51303b7b602c9039ac04 HW1-1
+ee64e576af3c4140f41bf58cb290be22b1d57c41 Initial commit
